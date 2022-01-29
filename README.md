@@ -1,10 +1,10 @@
 #### 👋 Hello, I'm Bruno Martins
 I am a full stack developer, with extensible knowledge of programming principals and patterns. Allowing me to develop scalable and performant software.
 
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge&link=https://www.linkedin.com/in/brunorodrigues355/)
+<a href="https://www.linkedin.com/in/brunorodrigues355/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"></a>
 
 #### 🧑‍💻 Currently working on
-<a href="https://github.com/bmartinsdev/cypress-story-recorder"><img alt="Custom badge" src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fbmartins.dev%2Fbadges%2Fcypress-recorder.json"></a>
+<a href="https://github.com/bmartinsdev/cypress-story-recorder"><img alt="Cypress Recorder" src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fbmartins.dev%2Fbadges%2Fcypress-recorder.json"></a>
 
 <a href="https://github.com/bmartinsdev/mina-svelte-kit"><img alt="Mina Design" src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fbmartins.dev%2Fbadges%2Fmina-design.json"></a>
 
