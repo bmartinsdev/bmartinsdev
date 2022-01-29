@@ -1,5 +1,5 @@
 #### 👋 Hello, I'm Bruno Martins
-I am a full stack developer, with extensible knowledge of programming principals and patterns. Allowing me to develop scalable and performant software.
+Portuguese software developer. With a minimalist mindset, like this bio.
 
 <a href="https://www.linkedin.com/in/brunorodrigues355/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"></a>
 
