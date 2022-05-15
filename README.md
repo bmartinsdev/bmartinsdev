@@ -4,7 +4,7 @@ Portuguese software developer.
 <a href="https://www.linkedin.com/in/brunorodrigues355/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"></a>
 
 #### 🧑‍💻 Recent projects
-<img alt="Flutter App" src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fbmartins.dev%2Fbadges%2Fflutter-app.json"></a>
+<img alt="Flutter App" src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fbmartins.dev%2Fbadges%2Fflutter-app.json">
 
 <a href="https://github.com/bmartinsdev/mina-svelte-kit"><img alt="Mina Design" src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fbmartins.dev%2Fbadges%2Fmina-design.json"></a>
 
